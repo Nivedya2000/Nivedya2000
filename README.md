@@ -8,14 +8,9 @@
 </p>
 
 <p align="center">
-  ✨ *“Always curious, always decoding — one dataset, one pattern, one insight at a time.”* ✨
+  ✨*“Always curious, always decoding — one dataset, one pattern, one insight at a time.”*✨
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nivedya2000&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
-
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nivedya2000&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
@@ -122,4 +117,4 @@
 
 ---
 
-✨ *“Always curious, always decoding — one dataset, one pattern, one insight at a time.”*
+
