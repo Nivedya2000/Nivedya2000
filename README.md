@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Nivedya
-
+# 👋 Hi, I'm Nivedya  
 
 <p align="center">
   <a href="https://linkedin.com/in/nivedya-k"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
@@ -8,7 +7,7 @@
 </p>
 
 <p align="center">
-  ✨Turning curiosity into creation, insights into impact..✨
+  ✨ Turning curiosity into creation, insights into impact ✨
 </p>
 
 <p align="center">
@@ -90,10 +89,11 @@
 
 | 🔗 Project | ⚡ Tech Stack | 📖 Description |
 |------------|--------------|----------------|
-| [**E-Commerce Data Analysis**](https://github.com/Nivedya2000/ecommerce-analysis) | PySpark, Databricks, Delta Lake | Data pipeline & analytics on sales datasets |
-| [**Real-time News Stream**](#) | Kafka, Spark, AWS, Python | Stream & process real-time news for sentiment insights |
-| [**Sales Dashboard**](#) | MySQL, Power BI | Interactive BI dashboards for sales data |
-| [**Hive Data Analysis**](#) | Hive, Hadoop, SQL | Query & analyze big data efficiently |
+| [**E-Commerce Analysis**](https://github.com/Nivedya2000/ecommerce-analysis) | PySpark, Databricks, Delta Lake | End-to-end sales data pipeline with Spark & analytics |
+| [**Swiggy Data Analysis**](https://github.com/Nivedya2000/swiggydata_analysis) | Python, Jupyter, Pandas | Insights from food delivery data – trends & visualization |
+| [**Microservice Auth System**](https://github.com/Nivedya2000/Microservice-Based-Authentication-System) | Python, Flask, REST API | Scalable authentication system using microservice architecture |
+| [**Real-time News Pipeline**](https://github.com/Nivedya2000/RealTimeNewsPipeline) | Kafka, Spark, AWS | Streaming pipeline for real-time news sentiment analysis |
+| [**Spotify AWS ETL**](https://github.com/Nivedya2000/spotify-aws-etl) | AWS Glue, S3, Python | Serverless ETL pipeline for Spotify dataset on AWS |
 
 ---
 
@@ -108,4 +108,5 @@
   <img src="https://streak-stats.demolab.com?user=Nivedya2000&theme=black-ice&background=000000&stroke=ffffff&ring=ffcc00&fire=ffcc00&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffcc00&sideLabels=ffffff&dates=aaaaaa&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
+---
 
