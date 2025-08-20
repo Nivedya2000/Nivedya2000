@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  ✨ Turning curiosity into creation, insights into impact ✨
+  ✨ Turning curiosity into creation, insights into impact..✨
 </p>
 
 <p align="center">
