@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  ✨*“Always curious, always decoding — one dataset, one pattern, one insight at a time.”*✨
+  *✨Turning curiosity into creation, insights into impact..✨*
 </p>
 
 <p align="center">
@@ -104,17 +104,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedya2000&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=Nivedya2000&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/nivedya-k"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:nivedyak1112@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/Nivedya2000"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox" /></a>
-</p>
-
----
-
 
