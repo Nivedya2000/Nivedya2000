@@ -86,12 +86,13 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nivedya2000&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=4CAF50" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedya2000&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nivedya2000&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=ffcc00&text_color=ffffff&icon_color=00FFFF" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedya2000&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ffcc00&text_color=ffffff" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nivedya2000&theme=default&background=ffffff&stroke=000000&ring=4CAF50&fire=4CAF50&currStreakLabel=000000&sideNums=000000&currStreakNum=4CAF50&sideLabels=000000&dates=444444&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Nivedya2000&theme=radical&background=000000&stroke=ffffff&ring=ff4500&fire=ffcc00&currStreakLabel=00FFFF&sideNums=ffffff&currStreakNum=ffcc00&sideLabels=00FFFF&dates=aaaaaa&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
+
 
 
