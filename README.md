@@ -78,9 +78,9 @@
 | [**E-Commerce Analysis**](https://github.com/Nivedya2000/ecommerce-analysis) | PySpark, Databricks, Delta Lake | End-to-end sales data pipeline with Spark & analytics |
 | [**Swiggy Data Analysis**](https://github.com/Nivedya2000/swiggydata_analysis) | Python, Jupyter, Pandas | Insights from food delivery data – trends & visualization |
 | [**Authentication System**](https://github.com/Nivedya2000/Microservice-Based-Authentication-System) | Python, Flask, REST API, Microservices | Scalable authentication system using microservice architecture |
-| [**Interview Preparation API**](https://github.com/Nivedya2000/Interview-Preparation-API) | Python, Flask/Django REST | API-based system to help practice interview questions |
+| [**Interview Preparation API**](https://github.com/Nivedya2000/Interview-Preparation-API) | Python, Django REST | API-based system to help practice interview questions |
 | [**Real-time News Pipeline**](https://github.com/Nivedya2000/RealTimeNewsPipeline) | Kafka, Spark, AWS | Streaming pipeline for real-time news sentiment analysis |
-| [**Spotify AWS ETL**](https://github.com/Nivedya2000/spotify-aws-etl) | AWS Glue, S3, Python | Serverless ETL pipeline for Spotify dataset on AWS |
+| [**Spotify AWS ETL**](https://github.com/Nivedya2000/spotify-aws-etl) | AWS Glue, AWS Athena, Amazon S3, Python | Serverless ETL pipeline for Spotify dataset on AWS |
 
 ---
 
