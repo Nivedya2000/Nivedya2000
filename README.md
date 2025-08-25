@@ -55,11 +55,14 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 📊 Visualization & Notebooks  
+### 📊 Visualization & Notebooks  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EABE6?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 ### 🔧 DevOps & Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -81,6 +84,7 @@
 | [**Interview Preparation API**](https://github.com/Nivedya2000/Interview-Preparation-API) | Python, Django REST | API-based system to help practice interview questions |
 | [**Real-time News Pipeline**](https://github.com/Nivedya2000/RealTimeNewsPipeline) | Kafka, Spark, AWS | Streaming pipeline for real-time news sentiment analysis |
 | [**Spotify AWS ETL**](https://github.com/Nivedya2000/spotify-aws-etl) | AWS Glue, AWS Athena, Amazon S3, Python | Serverless ETL pipeline for Spotify dataset on AWS |
+| [**Superstore Sales Dashboard**](https://github.com/Nivedya2000/superstore-sales-analysis) | Python, Pandas, Streamlit | 📊 Interactive dashboard for Superstore dataset — [**Open App Here 🚀**](https://nivedya2000-superstore-sales-analysis.streamlit.app) |
 
 ---
 
@@ -94,7 +98,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nivedya2000&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=FFB86C&fire=FF6E96&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFB86C&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" height="180"/>
 </p>
-
-
-
-
