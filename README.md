@@ -75,13 +75,22 @@
 
 ## 📊 GitHub Insights  
 
+## 📊 GitHub Stats  
+
 <p align="center">
-  <a href="https://github.com/Nivedya2000">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nivedya2000&show_icons=true&count_private=true&hide=prs&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=FFB86C" alt="GitHub Stats" height="180"/>
-  </a>
-  <a href="https://github.com/Nivedya2000">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedya2000&layout=compact&langs_count=8&theme=transparent&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nivedya2000&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nivedya2000&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nivedya2000&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nivedya2000&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nivedya2000&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</p>
+
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nivedya2000&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
