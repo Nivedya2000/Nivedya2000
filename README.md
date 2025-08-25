@@ -14,8 +14,6 @@
 - 📊 Passionate about **Data Engineering, ETL pipelines, and Analytics**  
 - ❤️ Love building **real-time data pipelines & visualization dashboards**  
 - 💡 Exploring **machine learning for predictive analytics**  
-- 🌱 Always curious, always learning, always creating 🚀  
-
 ---
 
 ## 🛠 Tech Stack  
