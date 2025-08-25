@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/nivedya-k"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:nivedyak1112@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/Nivedya2000"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox" /></a>
 </p>
 
 <p align="center">
@@ -90,10 +89,10 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nivedya2000&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FFB86C" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedya2000&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nivedya2000&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=FFB86C&fire=FF6E96&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFB86C&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" height="180"/>
 </p>
+
