@@ -7,14 +7,6 @@
   <a href="https://github.com/Nivedya2000"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox" /></a>
 </p>
 
-<p align="center">
-  ✨ Turning curiosity into creation, insights into impact..✨
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nivedya2000&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -94,6 +86,9 @@
   <a href="https://github.com/Nivedya2000">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedya2000&layout=compact&langs_count=8&theme=transparent&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
   </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nivedya2000&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 
