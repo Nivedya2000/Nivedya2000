@@ -1,8 +1,6 @@
-Based on your request to arrange the content in an "actual logo format" and the example provided (which seems to imply a structured, visually appealing layout with logos/icons), I’ll help you reorganize your README file to emphasize the tech stack and projects with a logo-centric design, similar to the style in the image you shared. I'll use text-based representations to mimic logos with badges or icons, aligning with the Markdown format commonly used in GitHub READMEs. Here's a revised version:
 
----
 
-# 👋 Hi, I'm Nivedya
+                                                                         # 👋 Hi, I'm Nivedya
 
 <p align="center">
   <a href="https://linkedin.com/in/nivedya-k"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
@@ -71,5 +69,3 @@ Based on your request to arrange the content in an "actual logo format" and the 
 | [**Superstore Sales Dashboard**](https://github.com/Nivedya2000/superstore-sales-analysis) | Python, Pandas, Streamlit             | 📊 Interactive dashboard for Superstore dataset — [**Open App Here 🚀**](https://nivedya2000-superstore-sales-analysis.streamlit.app) |
 
 ---
-
-This layout organizes your tech stack into categorized tables with badge-style logos, mirroring the visual style from your screenshot. The project section remains a table for clarity. You can copy this Markdown into your README file, and it should render nicely on GitHub with the logos displayed as shields. Let me know if you'd like further adjustments!
