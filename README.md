@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nivedya  
+<h1 align="center">👋 Hi, I'm NIVEDYA </h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/nivedya-k"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
@@ -62,14 +62,12 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
 ### 🔧 DevOps & Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 
 ---
 
@@ -84,16 +82,3 @@
 | [**Real-time News Pipeline**](https://github.com/Nivedya2000/RealTimeNewsPipeline) | Kafka, Spark, AWS | Streaming pipeline for real-time news sentiment analysis |
 | [**Spotify AWS ETL**](https://github.com/Nivedya2000/spotify-aws-etl) | AWS Glue, AWS Athena, Amazon S3, Python | Serverless ETL pipeline for Spotify dataset on AWS |
 | [**Superstore Sales Dashboard**](https://github.com/Nivedya2000/superstore-sales-analysis) | Python, Pandas, Streamlit | 📊 Interactive dashboard for Superstore dataset — [**Open App Here 🚀**](https://nivedya2000-superstore-sales-analysis.streamlit.app) |
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nivedya2000&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FFB86C" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedya2000&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nivedya2000&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=FFB86C&fire=FF6E96&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFB86C&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" height="180"/>
-</p>
