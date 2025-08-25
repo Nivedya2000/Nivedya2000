@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm NIVEDYA </h1>
+<h1 align="center">👋 Hi, I'm NIVEDYA K </h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/nivedya-k"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
@@ -82,3 +82,29 @@
 | [**Real-time News Pipeline**](https://github.com/Nivedya2000/RealTimeNewsPipeline) | Kafka, Spark, AWS | Streaming pipeline for real-time news sentiment analysis |
 | [**Spotify AWS ETL**](https://github.com/Nivedya2000/spotify-aws-etl) | AWS Glue, AWS Athena, Amazon S3, Python | Serverless ETL pipeline for Spotify dataset on AWS |
 | [**Superstore Sales Dashboard**](https://github.com/Nivedya2000/superstore-sales-analysis) | Python, Pandas, Streamlit | 📊 Interactive dashboard for Superstore dataset — [**Open App Here 🚀**](https://nivedya2000-superstore-sales-analysis.streamlit.app) |
+
+
+## 📊 GitHub Insights  
+
+<p align="center">
+  <a href="https://github.com/Nivedya2000">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nivedya2000&show_icons=true&count_private=true&hide=prs&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=FFB86C" alt="GitHub Stats" height="180"/>
+  </a>
+  <a href="https://github.com/Nivedya2000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedya2000&layout=compact&langs_count=8&theme=transparent&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Nivedya2000&theme=transparent&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" height="180"/>
+  </a>
+</p>
+
+
+
+
+
+
+
+
