@@ -30,84 +30,46 @@
 ## 🛠 Tech Stack  
 
 ### 👩‍💻 Languages  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/><br>SQL
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50"/><br>Bash / Shell
-</p>
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash / Shell](https://img.shields.io/badge/Bash%20%2F%20Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🧩 Frameworks & APIs  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50"/><br>Django
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50"/><br>Flask
-</p>
-
----
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Databases & Warehouses  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/><br>MySQL
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50"/><br>SQLite
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="50"/><br>Snowflake
-</p>
-
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### ☁️ Big Data & Cloud  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="50"/><br>Hadoop
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="50"/><br>Kafka
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="50"/><br>Apache Spark
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="50"/><br>Databricks
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50"/><br>AWS
-</p>
+![Apache Spark (PySpark)](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A8FDC?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
+### 📊 Visualization & Notebooks  
+### 📊 Visualization & Notebooks  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EABE6?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 📊 Visualization & Dashboards  
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50"/><br>Power BI
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="50"/><br>Tableau
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="50"/><br>Matplotlib
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="50"/><br>Seaborn
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50"/><br>Streamlit
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50"/><br>Jupyter Notebook
-</p>
-
----
 
 ### 🔧 DevOps & Tools  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/><br>Git
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/><br>GitHub
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/><br>Docker
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/><br>Linux
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/><br>VS Code
-</p>
-
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 ---
@@ -122,6 +84,7 @@
 | [**Interview Preparation API**](https://github.com/Nivedya2000/Interview-Preparation-API) | Python, Django REST | API-based system to help practice interview questions |
 | [**Real-time News Pipeline**](https://github.com/Nivedya2000/RealTimeNewsPipeline) | Kafka, Spark, AWS | Streaming pipeline for real-time news sentiment analysis |
 | [**Spotify AWS ETL**](https://github.com/Nivedya2000/spotify-aws-etl) | AWS Glue, AWS Athena, Amazon S3, Python | Serverless ETL pipeline for Spotify dataset on AWS |
+| [**Superstore Sales Dashboard**](https://github.com/Nivedya2000/superstore-sales-analysis) | Python, Pandas, Streamlit | 📊 Interactive dashboard for Superstore dataset — [**Open App Here 🚀**](https://nivedya2000-superstore-sales-analysis.streamlit.app) |
 
 ---
 
@@ -135,4 +98,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nivedya2000&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=FFB86C&fire=FF6E96&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFB86C&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" height="180"/>
 </p>
-
