@@ -11,8 +11,6 @@
 
 ## 🚀 About Me  
 
-✨ Data & Cloud Enthusiast | Big Data Explorer | AWS Practitioner  
-
 - 📊 Passionate about **Data Engineering, ETL pipelines, and Analytics**  
 - ❤️ Love building **real-time data pipelines & visualization dashboards**  
 - 💡 Exploring **machine learning for predictive analytics**  
