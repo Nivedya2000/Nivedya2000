@@ -30,63 +30,82 @@
 ## 🛠 Tech Stack  
 
 ### 👩‍💻 Languages  
-| Logo | Name |
-|------|------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | **Python** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> | **SQL** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/> | **Bash / Shell** |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/><br>SQL
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50"/><br>Bash / Shell
+</p>
 
 ---
 
 ### 🧩 Frameworks & APIs  
-| Logo | Name |
-|------|------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/> | **Django** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/> | **Flask** |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50"/><br>Django
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50"/><br>Flask
+</p>
 
 ---
 
 ### 🗄️ Databases & Warehouses  
-| Logo | Name |
-|------|------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> | **PostgreSQL** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> | **MySQL** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/> | **SQLite** |
-| <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/> | **Snowflake** |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/><br>MySQL
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50"/><br>SQLite
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="50"/><br>Snowflake
+</p>
 
 ---
 
 ### ☁️ Big Data & Cloud  
-| Logo | Name |
-|------|------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40"/> | **Hadoop** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40"/> | **Kafka** |
-| <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40"/> | **Apache Spark** |
-| <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="40"/> | **Databricks** |
-| <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/> | **AWS** |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="50"/><br>Hadoop
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="50"/><br>Kafka
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="50"/><br>Apache Spark
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="50"/><br>Databricks
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50"/><br>AWS
+</p>
 
 ---
 
 ### 📊 Visualization & Dashboards  
-| Logo | Name |
-|------|------|
-| <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40"/> | **Power BI** |
-| <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/> | **Tableau** |
-| <img src="https://matplotlib.org/_static/images/logo2.svg" width="40"/> | **Matplotlib** |
-| <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="40"/> | **Seaborn** |
-| <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40"/> | **Streamlit** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/> | **Jupyter Notebook** |
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50"/><br>Power BI
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="50"/><br>Tableau
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="50"/><br>Matplotlib
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="50"/><br>Seaborn
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50"/><br>Streamlit
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50"/><br>Jupyter Notebook
+</p>
 
 ---
 
 ### 🔧 DevOps & Tools  
-| Logo | Name |
-|------|------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> | **Git** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> | **GitHub** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | **Docker** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | **Linux** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> | **VS Code** |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/><br>Git
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/><br>GitHub
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/><br>Docker
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/><br>Linux
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/><br>VS Code
+</p>
 
 
 
@@ -117,6 +136,3 @@
   <img src="https://streak-stats.demolab.com?user=Nivedya2000&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=FFB86C&fire=FF6E96&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFB86C&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" height="180"/>
 </p>
 
-
-
-include streamlit tomy readme
