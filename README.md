@@ -95,11 +95,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Nivedya2000&theme=transparent&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" height="180"/>
-  </a>
-</p>
 
 
 
